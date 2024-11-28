@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: devops-project
-        image: azmiabad/devops:latest
+        image: azmiabad/devops1:latest
         ports:
         - containerPort: 80
         imagePullPolicy: Always
